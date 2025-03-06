@@ -1,0 +1,35 @@
+body {
+	font-family: 'Comic Sans MS';
+}
+.text h1 {
+	color: pink;
+	font-size: 48px;
+	font-family: 'Comic Sans MS';
+	text-align: center;
+	font-weight: 900;
+}
+.text h2 {
+	margin-top: -25px;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Comic Sans MS';
+	font-weight: 1;
+}
+.image {
+	display: flex;
+	justify-content: right;
+	align-items: right;
+	margin-top: -142px;
+}
+.image img {
+	border-radius: 20px;
+	width: 128px;
+}
+.graphic-design {
+    display: flex;
+    margin-top: 5px;
+    width: 30%;
+}
+ul {
+	font-size: 18px;
+}
