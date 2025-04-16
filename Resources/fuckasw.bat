@@ -9,6 +9,6 @@ echo ODT closed!
 timeout /t 2 /nobreak >nul
 del "%~dp0temp_asw.txt"
 echo Tempfile deleted!
-start "" "bsmanager://launch?version=1.39.1&versionIno=9851624184954652&oculusMode=true"
+start "" "PASTE HERE"
 echo Beat Saber launching!
 exit
